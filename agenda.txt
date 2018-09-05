@@ -1,0 +1,9 @@
+# list of tasks
+
+. create a product landing page.
+    1. header creation
+    2. content part
+    3. footer creation
+. apply meaningful animation
+. verify responsiveness application by using media queries.
+. SEO 
